@@ -10,15 +10,18 @@ const Edit = () => {
   
 
   useEffect(() => {
+    
     handleSubmit() 
+    
   }, []);
 
   const handleSubmit = async () => {
     const result = await axios(
       'http://localhost:8000/blogs/1',
     );
-
+    
     setData(result.data);
+    setIsPending(true);
     console.log(result); 
   };
 
@@ -44,7 +47,11 @@ const Edit = () => {
           <option value="mario">mario</option>
           <option value="yoshi">yoshi</option>
         </select>
-        {!isPending && <button type="submit" onClick={handleSubmit}>Update blog</button>}
+        {!isPending && (
+          <button type="submit" onClick={handleSubmit}>
+            Update blog
+          </button>
+        )}
       </form>
     </div>
   );

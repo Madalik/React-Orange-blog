@@ -41,7 +41,7 @@ const BlogDetails = () => {
           <p>Written by {blog.author}</p>
           <div>{blog.body}</div>
           <button onClick={handleClick}>Delete</button>
-          <Link to="./edit">
+          <Link to="/edit"> 
             <button type="button">Edit</button>
           </Link>
         </article>
