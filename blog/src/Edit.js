@@ -1,4 +1,5 @@
 import { useState, useEffect } from "react";
+import axios from 'axios';
 
 const Edit = () => {
   const [title, setTitle] = useState("");
@@ -17,6 +18,7 @@ const Edit = () => {
     );
 
     setData(result.data);
+    console.log(data); 
   };
 
   return (
