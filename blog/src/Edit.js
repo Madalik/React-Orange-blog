@@ -12,15 +12,11 @@ const Edit = () => {
   }, []);
 
   const handleSubmit = async () => {
-    fetch("http://localhost:8000/blogs" + blog.id, {
-      method: "PUT",
-      headers: { "Content-Type": " application/json" },
-      body: JSON.stringify(blog),
-    }).then((response) => {
-      console.log("edit blog");
-      setData(response.data);
-      console.log("data", data);
-    });
+    const result = await axios(
+      'http://localhost:8000/blogs/1',
+    );
+
+    setData(result.data);
   };
 
   return (
