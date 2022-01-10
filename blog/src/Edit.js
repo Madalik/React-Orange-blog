@@ -5,11 +5,12 @@ const Edit = () => {
   const [title, setTitle] = useState("");
   const [body, setBody] = useState("");
   const [author, setAuthor] = useState("mario");
+   const [isPending, setIsPending] = useState(false); 
   const [data, setData] = useState();
-  const blog = { title, body, author };
+  
 
   useEffect(() => {
-    handleSubmit();
+    handleSubmit() 
   }, []);
 
   const handleSubmit = async () => {
@@ -18,13 +19,13 @@ const Edit = () => {
     );
 
     setData(result.data);
-    console.log(data); 
+    console.log(result); 
   };
 
   return (
     <div className="create">
       <h2>Edit Blog</h2>
-      <form onSubmit={handleSubmit}>
+      <form >
         <label>Blog title:</label>
         <input
           type="text"
@@ -43,6 +44,7 @@ const Edit = () => {
           <option value="mario">mario</option>
           <option value="yoshi">yoshi</option>
         </select>
+        {!isPending && <button type="submit" onClick={handleSubmit}>Update blog</button>}
       </form>
     </div>
   );

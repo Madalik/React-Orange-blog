@@ -1,5 +1,6 @@
 import { useParams, useHistory } from "react-router-dom";
 import useFetch from "./useFetch";
+import { Link } from "react-router-dom";
 
 const BlogDetails = () => {
   const { id } = useParams();
@@ -19,16 +20,16 @@ const BlogDetails = () => {
     });
   };
 
-  const handleChange = () => {
-    fetch("http://localhost:8000/blogs" + blog.id, {
-      method: "PUT",
-      headers: { "Content-Type": " application/json" },
-      body: JSON.stringify(blog),
-    }).then(() => {
-      console.log("edit blog");
-    //   history.push("/create");
-    });
-  };
+  // const handleChange = () => {
+  //   fetch("http://localhost:8000/blogs" + blog.id, {
+  //     method: "PUT",
+  //     headers: { "Content-Type": " application/json" },
+  //     body: JSON.stringify(blog),
+  //   }).then(() => {
+  //     console.log("edit blog");
+  //   //   history.push("/create");
+  //   });
+  // };
 
   return (
     <div className="blog-details">
@@ -40,7 +41,9 @@ const BlogDetails = () => {
           <p>Written by {blog.author}</p>
           <div>{blog.body}</div>
           <button onClick={handleClick}>Delete</button>
-          <button onClick={handleChange}>Edit</button>
+          <Link to="./edit">
+            <button type="button">Edit</button>
+          </Link>
         </article>
       )}
     </div>
