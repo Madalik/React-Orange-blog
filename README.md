@@ -21,3 +21,6 @@ CRUD functions
 
 ![11](https://user-images.githubusercontent.com/73160318/151879258-0887bf83-8f3c-476e-8768-92c6e579eab4.jpg)
 
+Icons linked to social media
+
+![12](https://user-images.githubusercontent.com/73160318/151879910-1273b8aa-6d9b-4792-9b41-08a7063d2bbd.jpg)
