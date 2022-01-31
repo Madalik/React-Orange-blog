@@ -1,28 +1,34 @@
 {
   "blogs": [
     {
-      "title": "hay",
-      "body": "aaaaaaaaaaaaaaaaff",
-      "author": "mario",
-      "id": 3
+      "title": "This European Country Will Pay You to Visit",
+      "body": "Malta, a stunning island nation in the Mediterranean Sea, will pay you to visit this year. \n\nOpening June 1 to tourism, Malta’s travel incentives will offer vouchers for both hotels and diving excursions. Malta hopes their incentives will bring in around 35,000 tourists and usher in a strong return to tourism. If you’re interested in getting paid to stay in a hotel or dive off the coast of Malta, this might be for you. \nou can get a voucher for up to 100 Euros ($120) per person for a hotel. The amount you’re eligible for will depend on the star-rating of the hotel and you must stay at least three nights to qualify for the incentive. \n\nFor the three-night stay, travelers can be reimbursed:\n\n€100 per person for a five-star hotel\n€75 per person for a four-star hotel\n€50 per person for a three-star hotel\nIf you want to stay in a hotel on the neighboring island of Gozo, you’ll get an additional 10 percent on top of that. ",
+      "author": "mari",
+      "id": 9
     },
     {
-      "title": "mada",
-      "body": "aaaaaaaaaaaaaaaaaaaaaaa",
-      "author": "mario",
-      "id": 4
+      "title": "What It’s Like To Travel To Europe Right Now",
+      "body": "In August 2021, I went on a two-week trip to Europe, and was pleasantly surprised at how free I felt to enjoy my time there. I was expecting testing and entry protocols to be much more stringent, and for locals to be hesitant about me being there. However, that didn’t turn out to be the case. Here’s what it’s like to travel to Europe now, along with tips for going during the pandemic. \n\nI flew to Madrid via Brussels, and spent four days in the Spanish capital. \n\nFrom Spain, I flew to Georgia (the country, not the state), and toured around with a friend from Germany for ten days. My routing was Madrid – Istanbul – Tbilisi.\n\nThe final stop on my trip was New York, where I flew to via Istanbul, once again. Then it was back to Austin.",
+      "author": "Lola",
+      "id": 10
     },
     {
-      "title": "cata",
-      "body": "dddddddddddd",
-      "author": "mario",
-      "id": 5
+      "title": "Fall Travel Clothes for Changing Seasons",
+      "body": "Fall is a tricky time of year for packing since it’s hard to know if you should pack for summer temperatures or wintery weather. The best solve is to choose items that will work whether it’s pouring rain or hot and sunny.\nLeggings are the perfect layering piece for women since you can wear them under a dress and easily slip them off if you get too hot.\nVests are another great transitional piece. They help keep your core warm without making you too hot. \nSmartwool’s long sleeve crew top is my go-to base layer. I wear it under a jacket when skiing, and pair it with jeans or a skirt for a simple but warm outfit that won’t require a coat on a brisk fall day.\nI love big scarves for traveling—they can double as a blanket, a shoulder cover, or even a towel.",
+      "author": "Lola",
+      "id": 11
     },
     {
-      "title": "Cooking",
-      "body": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. ",
-      "author": "yoshi",
-      "id": 6
+      "title": "How to Prevent Flight Delays (and What to Do If They Happen Anyway)",
+      "body": "Why Are Flights Delayed?\nWhen an airline reports a delay, it is placed in one of five categories created by the Air Carrier On-Time Reporting Advisory Committee, which, yes, is very much a thing. They include:\n\nExtreme Weather: According to the Bureau of Transportation Statistics, weather woes made up around 38 percent of all delays in 2019. That includes snowstorms, hurricanes, and any other meteorological condition that prevents the carrier from making the flight.\n\nNational Aviation System: America’s crumbling infrastructure system has become a key talking point for both political parties, and that includes neglected airports and an outdated air traffic control network. These conditions make it difficult to manage the growing volume of flights and result in delays.\n\nSecurity Concerns: If your flight has ever been delayed during a government shutdown, it was most likely flagged as a security-related issue. These types of delays are a result of snags in airport security operations such as broken screening equipment, security breaches, or excessively long wait times.\n\nLate-Arriving Aircraft: This is an all-too-familiar scenario for most flyers. Your departure time has come and gone, but you’re still waiting around the gate for your plane to arrive from its previous city.",
+      "author": "mari",
+      "id": 12
+    },
+    {
+      "title": "Traveling with Pets",
+      "body": "Check whether pets are allowed. Many destinations don’t permit easy entrance for pets.\nDon’t underestimate the cost. Between crates, air and hotel surcharges, toys, extra food, unexpected vet bills away from home, and more, traveling with your pet can add up. Be aware of the costs and allow a little wiggle room in your budget.\nTrain your pet. A pet that responds to your commands will save you considerable trouble while on the road. From the airport to the hotel, a pet that is friendly and obedient is the most pleasant traveling companion.\nDon’t leave your pet unattended. This is one of the great “don’ts” of pet ownership. \nWalk your pet. Imagine if you had to be inside a cargo hold with no bathroom for a long flight. Your pet will be most comfortable if you take him out as close to flight time as possible.",
+      "author": "mari",
+      "id": 13
     }
   ]
 }
