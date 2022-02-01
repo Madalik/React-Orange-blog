@@ -1,4 +1,6 @@
 # react-orange-blog
+This project is a personal blog about traveling, containing articles and information about everything that planning a vacation involves (transportation, accommodation, sights, food recommendations).
+The website is created “responsive” = it can be viewed from PC, tablet of mobile phone 
 CRUD-React-app 
 
 The main page
