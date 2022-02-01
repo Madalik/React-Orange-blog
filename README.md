@@ -19,11 +19,19 @@ and if you click on this area, that article will be opened. Here I created 3 but
 
 ![2](https://user-images.githubusercontent.com/73160318/151878727-39c925d1-7995-44c7-8153-db5de98b4a6c.jpg)
 
+Back function turns the user back to the main page.
+Edit allows the article to be displayed (title, body, author), the initial information from the article being fetched within these 3 fields for editing.
+The Delete function deletes that particular article.
+
+
 ![4](https://user-images.githubusercontent.com/73160318/151878752-d4e53ea0-7dea-458e-af06-077461086e3c.jpg)
 
 ![9](https://user-images.githubusercontent.com/73160318/151879147-a54056e4-9f6c-45a8-9c7d-7db4e6b4fbb0.jpg)
 
 "Travel Hints" page
+
+	Travel Hints – a page with lots of info which can be used for a complete planification of a trip (transportation, accommodation, places to see and to eat)
+	These info are displayed using interactive and suggestive images (each one has at the lower part a button and an icon, which leads to an external link, that will be opened in a new separate window) 
 
 ![7](https://user-images.githubusercontent.com/73160318/151879251-255890be-d840-48fe-86bb-b308c5ec0b13.jpg)
 
