@@ -32,20 +32,21 @@ Add Blog – this page allows adding a new article, which will be later publishe
 
 "Travel Hints" page
 
-	Travel Hints – a page with lots of info which can be used for a complete planification of a trip (transportation, accommodation, places to see and to eat)
-	These info are displayed using interactive and suggestive images (each one has at the lower part a button and an icon, which leads to an external link, that will be opened in a new separate window) 
+Travel Hints – a page with lots of info which can be used for a complete planification of a trip (transportation, accommodation, places to see and to eat).
+These info are displayed using interactive and suggestive images (each one has at the lower part a button and an icon, which leads to an external link, that will be opened in a new separate window) 
 
 ![7](https://user-images.githubusercontent.com/73160318/151879251-255890be-d840-48fe-86bb-b308c5ec0b13.jpg)
 
 "About Me" page
 
-About me – contains info about me, a short presentation and my contact data
+About me – contains info about me, a short presentation and my contact data.
 The “My Work” button in the middle part of the screen will open a new page, containing all my projects I worked on so far.
 
 ![11](https://user-images.githubusercontent.com/73160318/151879258-0887bf83-8f3c-476e-8768-92c6e579eab4.jpg)
 
+as well as 4 icons in the lower part of the page, linked and leading to the most know social network apps (Facebook, Twitter, Linkedin, GitHub).
+
 Icons linked to social media
 
-as well as 4 icons in the lower part of the page, linked and leading to the most know social network apps (Facebook, Twitter, Linkedin, GitHub)
 
 ![12](https://user-images.githubusercontent.com/73160318/151879910-1273b8aa-6d9b-4792-9b41-08a7063d2bbd.jpg)
